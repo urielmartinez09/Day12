@@ -1,2 +1,2 @@
-# Day-12
+# Day12
 Student Materials Day 12
